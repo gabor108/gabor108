@@ -25,4 +25,4 @@ while True:
 
         display.lcd_display_string(cpuT + "C", 1)
         display.lcd_display_string(gpuT + "C", 2)
-        time.sleep(10) # change this number to change seconds between updates
+        time.sleep(1) # change this number to change seconds between updates
